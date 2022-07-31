@@ -1,0 +1,4 @@
+{
+    "mongoURI":
+      "mongodb+srv://chiragKumarMongoDb:999Mongodb@cluster0.tjvbj.mongodb.net/?retryWrites=true&w=majority"
+  }
